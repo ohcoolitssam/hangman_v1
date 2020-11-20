@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GamePlay
+comment0.text=\r\n\ GamePlay\ is\ the\ class\ driver\ for\ the\ GameWord\ class\ and\ carries\ out\ all\ the\ functions\ of\ the\ Hangman\ game.\r\n\ The\ java.io.*\ and\ java.util.*\ packages\ are\ called\ above\ so\ that\ their\ methods\ can\ be\ used\ below.\r\n\ \r\n\ @author\ Samuel\ Phillips\r\n\ @version\ 10/13/18;\ FALL2018\ ITSC\ 1213-002\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
